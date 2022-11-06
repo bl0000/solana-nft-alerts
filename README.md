@@ -10,7 +10,8 @@ Below are some screenshots of how alerts are printed.
 The message sent every time an NFT in a collection in the alerts list is bought/sold.
 <img src="/example_screenshots/activity.png">
 
-A message sent every 24 hours updating users on a collection in the watch list. 
+A message sent every 24 hours updating users on a collection in the watch list.
+
 <img src="/example_screenshots/stats.png">
 
 

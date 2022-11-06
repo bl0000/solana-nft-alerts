@@ -8,6 +8,7 @@ To set up this bot, install the libraries required, enter the token for your dis
 Below are some screenshots of how alerts are printed.
 
 The message sent every time an NFT in a collection in the alerts list is bought/sold.
+
 <img src="/example_screenshots/activity.png">
 
 A message sent every 24 hours updating users on a collection in the watch list.
